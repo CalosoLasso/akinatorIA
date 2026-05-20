@@ -192,7 +192,7 @@ no_aparece_en_algunos(Lista, C) :-
     \+ member(C, L),
     !.
 
--
+
 preguntar(C) :-
     write('¿El personaje tiene la caracteristica "'), write(C), write('"? (s./n.): '),
     read(Respuesta),
