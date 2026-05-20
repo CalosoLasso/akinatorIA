@@ -146,6 +146,13 @@ personaje(felix, [humano, es_adulto, hombre, tiene_magia, usa_ropa, tiene_cabell
 
 personaje(rapunzel, [humano, es_adulto, mujer, tiene_magia, usa_ropa, tiene_cabello, es_princesa, es_curiosa, es_de_enredados, realeza, tiene_familiares, es_principal]).
 personaje(eugene, [humano, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_ladron, es_carismatico, es_de_enredados, no_realeza, no_tiene_familiares, es_principal]).
+personaje(genie, [ser_magico, es_adulto, hombre, tiene_magia, no_usa_ropa, sin_cabello, es_genio, es_comico, es_de_aladdin, no_realeza, no_tiene_familiares, es_secundario]).
+
+personaje(robin_hood, [animal, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_zorro, es_astuto, es_de_robin_hood, no_realeza, no_tiene_familiares, es_principal]).
+
+personaje(maid_marian, [animal, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_zorra, es_bondadosa, es_de_robin_hood, realeza, tiene_familiares, es_principal]).
+
+personaje(little_john, [animal, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_oso, es_leal, es_de_robin_hood, no_realeza, no_tiene_familiares, es_secundario]).
 
 adivinar :-
     limpiar_respuestas,
