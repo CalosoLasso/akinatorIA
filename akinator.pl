@@ -39,20 +39,20 @@ personaje(sebastian, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, si
 
 personaje(mike, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, sin_cabello, es_monstruo, es_verde, es_de_monsters_inc, no_realeza, no_tiene_familiares, es_principal]).
 personaje(sully, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_monstruo, es_grande, es_de_monsters_inc, no_realeza, no_tiene_familiares, es_principal]).
-personaje(boo, [humano, es_nino, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_curiosa, es_de_monsters_inc, no_realeza, tiene_familiares, es_secundario]).
+personaje(boo, [humano, es_nino, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_curiosa, es_de_monsters_inc, no_realeza, tiene_familiares, es_secundario]).
 
 personaje(mulan, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_guerrera, es_valiente, es_de_mulan, no_realeza, tiene_familiares, es_principal]).
 personaje(shang, [humano, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_capitan, es_fuerte, es_de_mulan, no_realeza, tiene_familiares, es_principal]).
 personaje(mushu, [animal, es_adulto, hombre, tiene_magia, no_usa_ropa, tiene_cabello, es_dragon, es_gracioso, es_de_mulan, no_realeza, no_tiene_familiares, es_secundario]).
 
 personaje(peter_pan, [humano, es_nino, hombre, tiene_magia, usa_ropa, tiene_cabello, es_volador, es_valiente, es_de_peter_pan, no_realeza, no_tiene_familiares, es_principal]).
-personaje(wendy, [humano, es_nino, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_sonadora, es_de_peter_pan, no_realeza, tiene_familiares, es_principal]).
-personaje(john, [humano, es_nino, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_humano, es_serio, es_de_peter_pan, no_realeza, tiene_familiares, es_secundario]).
-personaje(michael, [humano, es_nino, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_humano, es_infantil, es_de_peter_pan, no_realeza, tiene_familiares, es_secundario]).
+personaje(wendy, [humano, es_nino, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_sonadora, es_de_peter_pan, no_realeza, tiene_familiares, es_principal]).
+personaje(john, [humano, es_nino, hombre, no_tiene_magia, usa_ropa, tiene_cabello,  es_serio, es_de_peter_pan, no_realeza, tiene_familiares, es_secundario]).
+personaje(michael, [humano, es_nino, hombre, no_tiene_magia, usa_ropa, tiene_cabello,  es_infantil, es_de_peter_pan, no_realeza, tiene_familiares, es_secundario]).
 personaje(tinkerbell, [animal, es_adulto, mujer, tiene_magia, usa_ropa, tiene_cabello, es_hada, es_celosa, es_de_peter_pan, no_realeza, no_tiene_familiares, es_secundario]).
 
-personaje(cinderella, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_bondadosa, es_de_cenicienta, realeza, tiene_familiares, es_principal]).
-personaje(fairy_godmother, [humano, es_adulto, mujer, tiene_magia, usa_ropa, tiene_cabello, es_humana, es_protectora, es_de_cenicienta, no_realeza, no_tiene_familiares, es_secundario]).
+personaje(cinderella, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_bondadosa, es_de_cenicienta, realeza, tiene_familiares, es_principal]).
+personaje(fairy_godmother, [humano, es_adulto, mujer, tiene_magia, usa_ropa, tiene_cabello,  es_protectora, es_de_cenicienta, no_realeza, no_tiene_familiares, es_secundario]).
 personaje(jaq, [animal, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_raton, es_valiente, es_de_cenicienta, no_realeza, no_tiene_familiares, es_secundario]).
 personaje(gus, [animal, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_raton, es_gloton, es_de_cenicienta, no_realeza, no_tiene_familiares, es_secundario]).
 
@@ -60,7 +60,7 @@ personaje(dumbo, [animal, es_nino, hombre, tiene_magia, no_usa_ropa, tiene_cabel
 
 personaje(hercules, [humano, es_adulto, hombre, tiene_magia, usa_ropa, tiene_cabello, es_semidios, es_fuerte, es_de_hercules, realeza, tiene_familiares, es_principal]).
 personaje(pegasus, [animal, es_adulto, hombre, tiene_magia, no_usa_ropa, tiene_cabello, es_volador, es_caballo, es_de_hercules, no_realeza, no_tiene_familiares, es_secundario]).
-personaje(meg, [humano, es_joven, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_sarcastica, es_de_hercules, no_realeza, no_tiene_familiares, es_principal]).
+personaje(meg, [humano, es_joven, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_sarcastica, es_de_hercules, no_realeza, no_tiene_familiares, es_principal]).
 personaje(phil, [animal, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_entrenador, es_satiro, es_de_hercules, no_realeza, no_tiene_familiares, es_secundario]).
 
 personaje(quasimodo, [humano, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_deforme, es_bondadoso, es_de_el_jorobado_de_notre_dame, no_realeza, no_tiene_familiares, es_principal]).
@@ -82,15 +82,15 @@ personaje(pluto, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_
 personaje(lady, [animal, es_adulto, mujer, no_tiene_magia, no_usa_ropa, tiene_cabello, es_perra, es_elegante, es_de_la_dama_y_el_vagabundo, no_realeza, tiene_familiares, es_principal]).
 personaje(tramp, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_perro, es_callejero, es_de_la_dama_y_el_vagabundo, no_realeza, no_tiene_familiares, es_principal]).
 
-personaje(tarzan, [humano, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_humano, es_agil, es_de_tarzan, no_realeza, tiene_familiares, es_principal]).
-personaje(jane, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_curiosa, es_de_tarzan, no_realeza, tiene_familiares, es_principal]).
+personaje(tarzan, [humano, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello,  es_agil, es_de_tarzan, no_realeza, tiene_familiares, es_principal]).
+personaje(jane, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_curiosa, es_de_tarzan, no_realeza, tiene_familiares, es_principal]).
 
-personaje(lilo, [humano, es_nino, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_creativa, es_de_lilo_y_stitch, no_realeza, tiene_familiares, es_principal]).
+personaje(lilo, [humano, es_nino, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_creativa, es_de_lilo_y_stitch, no_realeza, tiene_familiares, es_principal]).
 personaje(stitch, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_experimento, es_loco, es_de_lilo_y_stitch, no_realeza, no_tiene_familiares, es_principal]).
 
 personaje(baloo, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_oso, es_divertido, es_de_el_libro_de_la_selva, no_realeza, no_tiene_familiares, es_principal]).
 personaje(bagheera, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_pantera, es_protector, es_de_el_libro_de_la_selva, no_realeza, no_tiene_familiares, es_principal]).
-personaje(moglie, [humano, es_nino, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_humano, es_curioso, es_de_el_libro_de_la_selva, no_realeza, tiene_familiares, es_principal]).
+personaje(moglie, [humano, es_nino, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello,  es_curioso, es_de_el_libro_de_la_selva, no_realeza, tiene_familiares, es_principal]).
 
 personaje(duchess, [animal, es_adulto, mujer, no_tiene_magia, no_usa_ropa, tiene_cabello, es_gata, es_elegante, es_de_los_aristogatos, no_realeza, tiene_familiares, es_principal]).
 personaje(omalley, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_gato, es_callejero, es_de_los_aristogatos, no_realeza, no_tiene_familiares, es_principal]).
@@ -105,9 +105,9 @@ personaje(mate, [objeto, es_adulto, hombre, no_tiene_magia, no_usa_ropa, sin_cab
 personaje(naveen, [humano, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_principe, es_encantador, es_de_la_princesa_y_el_sapo, realeza, tiene_familiares, es_principal]).
 personaje(ray, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, sin_cabello, es_luciernaga, es_romantico, es_de_la_princesa_y_el_sapo, no_realeza, no_tiene_familiares, es_secundario]).
 personaje(louis, [animal, es_adulto, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_cocodrilo, es_musico, es_de_la_princesa_y_el_sapo, no_realeza, no_tiene_familiares, es_secundario]).
-personaje(tiana, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_trabajadora, es_de_la_princesa_y_el_sapo, realeza, tiene_familiares, es_principal]).
+personaje(tiana, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_trabajadora, es_de_la_princesa_y_el_sapo, realeza, tiene_familiares, es_principal]).
 
-personaje(alicia, [humano, es_nino, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_curiosa, es_de_alicia_en_el_pais_de_las_maravillas, no_realeza, tiene_familiares, es_principal]).
+personaje(alicia, [humano, es_nino, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_curiosa, es_de_alicia_en_el_pais_de_las_maravillas, no_realeza, tiene_familiares, es_principal]).
 personaje(cheshire_cat, [animal, es_adulto, hombre, tiene_magia, no_usa_ropa, tiene_cabello, es_gato, es_misterioso, es_de_alicia_en_el_pais_de_las_maravillas, no_realeza, no_tiene_familiares, es_secundario]).
 personaje(white_rabbit, [animal, es_adulto, hombre, tiene_magia, usa_ropa, tiene_cabello, es_conejo, es_apresurado, es_de_alicia_en_el_pais_de_las_maravillas, no_realeza, no_tiene_familiares, es_secundario]).
 
@@ -124,13 +124,13 @@ personaje(thumper, [animal, es_nino, hombre, no_tiene_magia, no_usa_ropa, tiene_
 personaje(flower, [animal, es_nino, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_mofeta, es_tierno, es_de_bambi, no_realeza, no_tiene_familiares, es_secundario]).
 personaje(bambi, [animal, es_nino, hombre, no_tiene_magia, no_usa_ropa, tiene_cabello, es_ciervo, es_inocente, es_de_bambi, realeza, tiene_familiares, es_principal]).
 
-personaje(aladdin, [humano, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_humano, es_astuto, es_de_aladdin, no_realeza, no_tiene_familiares, es_principal]).
+personaje(aladdin, [humano, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello,  es_astuto, es_de_aladdin, no_realeza, no_tiene_familiares, es_principal]).
 personaje(jasmine, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_princesa, es_valiente, es_de_aladdin, realeza, tiene_familiares, es_principal]).
 
 personaje(pocahontas, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_de_una_tribu, es_valiente, es_de_pocahontas, realeza, tiene_familiares, es_principal]).
 personaje(john_smith, [humano, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_explorador, es_aventurero, es_de_pocahontas, no_realeza, no_tiene_familiares, es_principal]).
 
-personaje(bella, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello, es_humana, es_inteligente, es_de_la_bella_y_la_bestia, no_realeza, tiene_familiares, es_principal]).
+personaje(bella, [humano, es_adulto, mujer, no_tiene_magia, usa_ropa, tiene_cabello,  es_inteligente, es_de_la_bella_y_la_bestia, no_realeza, tiene_familiares, es_principal]).
 personaje(bestia, [animal, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_principe, es_transformado, es_de_la_bella_y_la_bestia, realeza, tiene_familiares, es_principal]).
 personaje(lumiere, [objeto, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_candelabro, es_encantador, es_de_la_bella_y_la_bestia, no_realeza, no_tiene_familiares, es_secundario]).
 personaje(cogsworth, [objeto, es_adulto, hombre, no_tiene_magia, usa_ropa, tiene_cabello, es_reloj, es_serio, es_de_la_bella_y_la_bestia, no_realeza, no_tiene_familiares, es_secundario]).
@@ -192,7 +192,7 @@ no_aparece_en_algunos(Lista, C) :-
     \+ member(C, L),
     !.
 
--
+
 preguntar(C) :-
     write('¿El personaje tiene la caracteristica "'), write(C), write('"? (s./n.): '),
     read(Respuesta),
